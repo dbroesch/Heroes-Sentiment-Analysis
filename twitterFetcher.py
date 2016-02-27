@@ -4,10 +4,10 @@ from tweepy.streaming import StreamListener
 
 
 #auth information for Twitter API
-consumer_key = 'uVDSBEX1VwUfxIYrOL2iRMeU6'
-consumer_secret = 'huPAfnHiVs5SFb97eaeJp2OF7SPsIt0RWBsI0UujKq8JYvX9G3'
-access_token = '805801320-GHQc338xf3BEpihbWHWSm2oNyvl3WwikTcPrWt2A'
-access_token_secret = 'TOyA8yRvyFQEnl1xq3VTinKnASHFT0EYoQpbVwSKvNoA1'
+consumer_key = 'your auth info'
+consumer_secret = ''your auth info'
+access_token = 'your auth info'
+access_token_secret = ''your auth info'
 #Tweepy Handler for accessing Oauth and Twitter API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
