@@ -10,3 +10,6 @@ This is where all the magic happens!
 
 [preProcess.py](preProcess.py)
 Functions and dictionaries used in text analysis.py
+
+[blizz2.json](blizz2.json)
+The dump of tweets I used!
