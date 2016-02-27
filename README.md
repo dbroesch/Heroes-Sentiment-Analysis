@@ -5,7 +5,7 @@ A blog posting about the project can be found [here](http://davidbroesch.com/201
 [twitterFetcher.py](twitterFetcher.py) 
 Script that connects to the Twitter streaming API and saves a Twitter Json file
 
-[text analysis.py]("text analysis.py")
+[text analysis.py](text analysis.py)
 This is where all the magic happens!
 
 [preProcess.py](preProcess.py)
