@@ -5,7 +5,7 @@ from tweepy.streaming import StreamListener
 
 #auth information for Twitter API
 consumer_key = 'your auth info'
-consumer_secret = ''your auth info'
+consumer_secret = 'your auth info'
 access_token = 'your auth info'
 access_token_secret = ''your auth info'
 #Tweepy Handler for accessing Oauth and Twitter API
